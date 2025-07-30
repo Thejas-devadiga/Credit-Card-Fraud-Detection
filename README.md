@@ -20,7 +20,7 @@
 ```bash
 pip install -r requirements.txt
 
-2. Train the Model (if needed)
+### 2. Train the Model (if needed)
 python train_model.py
 
 3. Run the Web App
