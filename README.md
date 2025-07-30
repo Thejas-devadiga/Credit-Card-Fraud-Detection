@@ -42,15 +42,15 @@ File	Description.
 
 ```index.html```	Frontend UI template
 
-train_model.py	Training and model serialization script
+```train_model.py```	Training and model serialization script
 
-dt_model.pkl	Trained ML model
+```dt_model.pkl```	Trained ML model
 
-model_features.pkl	Pickled feature list used in training
+```model_features.pkl```	Pickled feature list used in training
 
-test_data.pkl	Sample data for testing
+```test_data.pkl```	Sample data for testing
 
-balanced_credit_card_fraud_dataset.csv	Training dataset
+```balanced_credit_card_fraud_dataset.csv```	Training dataset
 
 
 
