@@ -19,12 +19,12 @@
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### 2. Train the Model (if needed)
-python train_model.py
+```python train_model.py```
 
 3. Run the Web App
-python app.py
+```python app.py```
 Open your browser and navigate to http://127.0.0.1:5000 to access the UI.
 
 🌐 Web Interface
@@ -36,8 +36,8 @@ Get predictions on whether the transaction is fraudulent or legitimate
 
 📦 Files Description
 File	Description
-app.py	Main Flask application
-index.html	Frontend UI template
+```app.py```	Main Flask application
+```index.html```	Frontend UI template
 train_model.py	Training and model serialization script
 dt_model.pkl	Trained ML model
 model_features.pkl	Pickled feature list used in training
