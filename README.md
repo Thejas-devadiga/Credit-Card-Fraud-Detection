@@ -27,14 +27,14 @@ pip install -r requirements.txt
 ```python app.py```
 Open your browser and navigate to http://127.0.0.1:5000 to access the UI.
 
-🌐 Web Interface
+###🌐 Web Interface
 The web app (built with Flask) allows users to:
 
 Input transaction features manually
 
 Get predictions on whether the transaction is fraudulent or legitimate
 
-📦 Files Description.
+###📦 Files Description.
 
 File	Description.
 
@@ -56,10 +56,10 @@ balanced_credit_card_fraud_dataset.csv	Training dataset
 
 
 
-🔒 Disclaimer
+##🔒 Disclaimer
 
 This project is for educational purposes only and should not be used for real-world fraud detection without rigorous testing and compliance checks.
 
-📌 Author
+##📌 Author
 
 Thejas-devadiga
