@@ -34,8 +34,8 @@ Input transaction features manually
 
 Get predictions on whether the transaction is fraudulent or legitimate
 
-📦 Files Description
-File	Description
+📦 Files Description.
+File	Description.
 ```app.py```	Main Flask application
 ```index.html```	Frontend UI template
 train_model.py	Training and model serialization script
